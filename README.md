@@ -137,12 +137,6 @@ Gerar blocos com perguntas para cada convidado, respostas simuladas curtas (máx
 
 ---
 
-## Exemplo de README.md final (para GitHub)
-
-Copie e cole o conteúdo deste documento em `README.md` do seu repositório. Adicione `assets/cover.png` com a imagem de capa.
-
----
-
 ## Licença
 
 Sinta-se livre para usar e adaptar estes prompts (CC0-like). Se redistribuir, considere manter créditos.
